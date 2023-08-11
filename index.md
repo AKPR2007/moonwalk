@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Home
 ---
 
 cool ejeksksk
