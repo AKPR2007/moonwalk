@@ -1,8 +1,6 @@
 ---
 layout: post
-title: Home
+title: Untitled
 ---
 
-cool ejeksksk
-
-## lorem ispum
+<h1 style="text-align: center;">Homs</h1>
